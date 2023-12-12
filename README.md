@@ -8,7 +8,7 @@ https://github.com/[B4money]/[CST-499-Course-Registration-System-Bmerritt]/blob/
 
 ![alt text](https://github.com/[B4money]/[CST-499-Course-Registration-System-Bmerritt]/blob/[main]/Collage_of_pages.jpg?raw=true)
 
-![Preview](https://raw.githubusercontent.com/B4money/CST-499-Course-Registration-System-Bmerritt/master/image-path/Collage_of_pages.jpg)
+![Preview](https://raw.githubusercontent.com/B4money/CST-499-Course-Registration-System-Bmerritt/master/[image-path](https://github.com/B4money/CST-499-Course-Registration-System-Bmerritt/blob/main/Collage_of_pages.jpg)/Collage_of_pages.jpg)
 
 ![Preview].(https://raw.githubusercontent.com/B4money/CST-499-Course-Registration-System-Bmerritt/master/main/Collage_of_pages.jpg).
 https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true
